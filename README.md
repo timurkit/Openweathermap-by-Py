@@ -12,19 +12,19 @@ https://openweathermap.org/ (требует регистрации, достат
 
 Посчитал нужным иметь возможность проверять данные, так что в своей реализации добавил ссылки по дням.
 Output:
+
 2022-01-27 https://api.openweathermap.org/data/2.5/onecall/timemachine?lat=55.75&lon=37.61&dt=1643303655&appid=976c371210bde351b4db2275aa98352e&units=metric&lang=ru
+
 2022-01-28 https://api.openweathermap.org/data/2.5/onecall/timemachine?lat=55.75&lon=37.61&dt=1643390055&appid=976c371210bde351b4db2275aa98352e&units=metric&lang=ru
+
 2022-01-29 https://api.openweathermap.org/data/2.5/onecall/timemachine?lat=55.75&lon=37.61&dt=1643476455&appid=976c371210bde351b4db2275aa98352e&units=metric&lang=ru
+
 2022-01-30 https://api.openweathermap.org/data/2.5/onecall/timemachine?lat=55.75&lon=37.61&dt=1643562855&appid=976c371210bde351b4db2275aa98352e&units=metric&lang=ru
+
 2022-01-31 https://api.openweathermap.org/data/2.5/onecall/timemachine?lat=55.75&lon=37.61&dt=1643649255&appid=976c371210bde351b4db2275aa98352e&units=metric&lang=ru
 
 Максимальная продолжительность светового дня 8:34:16 наблюдалась 2022-01-31
 Минимальная разница ощущаемой и фактической температуры ночью составила 0.0 градусов и достигнута в 3-й день - 2022-01-29
-
-api.openweathermap.org скриншот погоды третьего дня
-![image](https://user-images.githubusercontent.com/62181758/151841847-56e1503e-0199-4332-86d3-c3b61ad14dfc.png)
-yandex.ru/pogoda скриншот продолжительности светового дня
-![image](https://user-images.githubusercontent.com/62181758/151845160-d807c6fd-379a-411d-a3f8-e67115d62d43.png)
 
 
 
@@ -36,7 +36,3 @@ http://www.cbr.ru/scripts/XML_daily.asp
 
 Оutput:
 1 NOK = 35.7494 HUF
-
-Курс ЦБ выложен на 01.02.2022, что совпадает с найденным
-![image](https://user-images.githubusercontent.com/62181758/151844676-e8855bea-ed38-4965-a45c-6b5837542897.png)
-
