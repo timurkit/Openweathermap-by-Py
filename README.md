@@ -38,4 +38,4 @@ http://www.cbr.ru/scripts/XML_daily.asp
 Оutput:
 1 NOK = 35.7494 HUF
 
-Googledisk https://drive.google.com/drive/folders/1koZXlJBQe1RnnxMq8BqW6_8aS0O0JugO?usp=sharing
+drive google https://drive.google.com/drive/folders/1koZXlJBQe1RnnxMq8BqW6_8aS0O0JugO?usp=sharing
